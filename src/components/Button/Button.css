@@ -1,0 +1,11 @@
+.btn {
+  padding: 30px 20px;
+}
+
+.btn-primary {
+  background-color: violet;
+}
+
+.btn-secondary {
+  background-color: goldenrod;
+}
